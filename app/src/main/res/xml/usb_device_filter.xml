@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 0x0BDA:0x5830 P2 Pro / TC001, 0x0BDA:0x5840 TOOLTOP T7 -->
+    <usb-device vendor-id="3034" product-id="22576" />
+    <usb-device vendor-id="3034" product-id="22592" />
+    <!-- 0x3474:0x45A2 Thermal Master P3, 0x3474:0x45C2 P1 -->
+    <usb-device vendor-id="13428" product-id="17826" />
+    <usb-device vendor-id="13428" product-id="17858" />
+    <!-- 0x5656:0x1201 UNI-T UTi120M -->
+    <usb-device vendor-id="22102" product-id="4609" />
+</resources>
