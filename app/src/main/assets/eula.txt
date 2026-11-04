@@ -1,0 +1,43 @@
+Hot Spotter end-user license
+EULA version 1
+Licensor: goeielewe
+
+This is the license between you and goeielewe for the Hot Spotter app. Please read it. If you tap Accept, you agree to it. If you do not agree, tap Decline. The app will close, and you may not use it.
+
+1. What Hot Spotter is
+
+Hot Spotter is a monitoring aid for a workbench. It watches a thermal camera and can sound a siren when a reading looks wrong.
+
+It is not a fire alarm. It is not a smoke detector. It is not a safety device. It is not a medical device.
+
+Do not rely on Hot Spotter as the sole means of fire protection or thermal-runaway protection. Keep a real smoke detector in the room, and an extinguisher you know how to use within reach. A cell can go from warm to venting faster than a phone can notice. A siren does not put a fire out.
+
+2. Legal use only
+
+You may use Hot Spotter only for legal purposes. You may not use it in a way that breaks the law.
+
+3. Cameras you plug in
+
+Hot Spotter can show a picture from a USB-C thermal camera you already own. The camera makers are not part of this license. Hot Spotter is not made by them and they do not endorse it.
+
+You agree to hold those camera makers harmless from claims, losses, damages, and costs that arise out of your use of this app, or out of your inability to use it.
+
+4. Your camera
+
+This build talks to the camera over USB. It does not include a vendor camera SDK. If a camera maker asks that this app stop talking to their device, goeielewe may terminate this license. If the license ends, you must stop using the app.
+
+5. No warranty
+
+Hot Spotter is provided as is and as available. goeielewe gives no warranty of any kind, express or implied. That includes any warranty of accuracy, of fitness for a particular purpose, of quiet enjoyment, and of uninterrupted operation. goeielewe does not warrant that the app will detect a fire, a hot cell, or a thermal runaway.
+
+6. Limit on goeielewe's liability
+
+To the fullest extent the law allows, goeielewe is not liable for any indirect, incidental, special, consequential, or punitive damages, or for loss of property, personal injury, or death, arising out of this app or this license. That includes a missed warning and a siren that does not sound. This limit applies even if goeielewe has been told that such damage is possible.
+
+If goeielewe is found liable for a claim arising out of this license, that liability is limited to the amount you paid for the app. If you paid nothing, the limit is zero.
+
+Some places do not allow these limits. In those places, the limits apply only as far as the law allows.
+
+7. Changes
+
+If this license changes, the app will show you the new text and wait for you to accept it before you continue. You can read the current license at any time from Settings and from Help.

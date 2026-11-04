@@ -1,0 +1,8 @@
+<resources>
+    <style name="Theme.BenchFireWatch" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">#12140F</item>
+        <item name="android:statusBarColor">#12140F</item>
+        <item name="android:navigationBarColor">#12140F</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>

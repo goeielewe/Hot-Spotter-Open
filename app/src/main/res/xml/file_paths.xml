@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <external-files-path name="ext_sessions" path="Documents/sessions/" />
+    <files-path name="int_sessions" path="sessions/" />
+    <files-path name="evidence" path="evidence/" />
+    <cache-path name="reports" path="reports/" />
+</paths>

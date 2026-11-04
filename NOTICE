@@ -1,0 +1,94 @@
+Hot Spotter Open
+Copyright 2026 goeielewe
+
+This product includes material derived from the following works. The USB
+stacks of those projects are not included. GPL projects were read as
+reference only and are not included.
+
+--------------------------------------------------------------------------------
+P2 Pro vendor command packet layout
+LeoDJ/P2Pro-Viewer
+https://github.com/LeoDJ/P2Pro-Viewer
+Copyright (c) 2023 LeoDJ
+MIT License
+
+A Kotlin rewrite of the control-packet layout is in
+app/src/main/java/com/benchfirewatch/source/Radiometry.kt (P2ProPackets).
+
+MIT License
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+--------------------------------------------------------------------------------
+TC002C temperature scale
+PyThermalCamera
+Copyright Les Wright and contributors
+Apache License 2.0
+
+The 512×484 frame and the raw/16 scale are used from that project's notes.
+
+--------------------------------------------------------------------------------
+Thermal Master P1 and P3 frame map
+jvdillon/p3-ir-camera
+ferrolho/thermal-master-viewer
+Apache License 2.0
+
+The frame layout, the 1/64 kelvin scale, and the precomputed start, gain, and
+shutter commands are used from those notes. The serial-number read is not
+included.
+
+--------------------------------------------------------------------------------
+UNI-T UTi120M frame size
+diegosainz/uni-t-thermal-uti120
+https://github.com/diegosainz/uni-t-thermal-uti120
+Copyright (c) 2026 Diego Sainz
+MIT License
+
+This build recognizes the camera and can save a raw frame. Absolute
+temperatures are not computed, because they need the factory table stored on
+the camera.
+
+MIT License
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+--------------------------------------------------------------------------------
+AndroidX, Kotlin, and the Android Gradle Plugin are used as dependencies
+under the Apache License, Version 2.0. They are not vendored in this
+repository.
+
+Camera and plug names belong to their owners. This project is not affiliated
+with or endorsed by InfiRay, Topdon, TOOLTOP, Thermal Master, UNI-T, Shelly,
+TP-Link, Tasmota, Home Assistant, or Wemo.
